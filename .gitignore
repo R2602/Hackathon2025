@@ -1,0 +1,17 @@
+# Eclipse
+.settings/
+bin/
+tmp/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Mac OS
+.DS_Store
